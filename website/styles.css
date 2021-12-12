@@ -1,0 +1,101 @@
+input{
+    color: rgb(25, 25, 50);
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.input1{
+    background-color: whitesmoke;
+}
+
+.input2{
+    background-color: whitesmoke;
+}
+
+body{
+    background-image: url('image/polos-background.jpeg');
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+div{
+    border: 15px;
+    border-radius: 10px;
+    background: fixed;
+    background-color: transparent;
+    padding: 10px 12px;
+    font-size: 14px;
+}
+
+.Container{
+    size: 10px 20px;
+}
+
+button{
+    border-radius: 5px;
+    background-color: gray;
+    color: whitesmoke;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button1{
+    background-color: rgb(100, 185, 25);
+}
+
+.button2{
+    background-color: rgb(185, 100, 25);
+}
+
+td{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin: 5px 3px;
+}
+
+.quizbelajar{
+    background-color: transparent;
+    font-size: 14px;
+}
+
+.image{
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.register{
+    size: 50px 50px;
+}
+
+.input_mail{
+    background-color: whitesmoke;
+}
+
+.input_user{
+    background-color: whitesmoke;
+}
+
+.input_password{
+    background-color: whitesmoke;
+}
+
+fieldset{
+    padding: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: solid 1px;
+    border-radius: 80px;
+}
+
+.logout{
+    size: 20px;
+    background-color: whitesmoke;
+    padding: 30px 15px;
+}
